@@ -1,5 +1,10 @@
 # E-Commerce Sales Performance & Customer Insights Dashboard
 
+## Dashboard Viz
+
+<img width="1880" height="718" alt="Dashboard" src="https://github.com/user-attachments/assets/b28215e5-35b3-4b61-9260-cb8d1810fb16" />
+
+
 ## Project Overview
 
 This project is an **interactive E-Commerce Sales and Customer Insights Dashboard built in Microsoft Excel**.
@@ -277,9 +282,8 @@ E-Commerce-Analytics/
 ├── README.md
 ├── E-Commerce-Dashboard.xlsx
 ├── images/
-│   └── ecommerce-dashboard.png
-└── data/
-    └── dataset.csv
+│   └── Dashboard.png
+└── report.pdf
 ```
 
 ---
@@ -318,6 +322,4 @@ Possible future improvements include:
 ## Author
 
 **Sadab**
-
-Aspiring Data Analyst | SQL | Excel | Power Pivot | DAX | Power BI
 
